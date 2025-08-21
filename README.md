@@ -1,5 +1,13 @@
-Hi I am Amahle Dlamini
-- 👀 I’m interested in art , programing , and little bit of challenge
-- 🌱 I’m currently learning computer science and IT at UKZN
-- 💞️ I’m looking to collaborate on various projects on different programming langueges
-- 📫 How to reach me : foxyblue.com@gmail.com is where you will find me
+Hey, I’m Amahle Dlamini 👩‍💻
+
+🎓 Computer Science & IT student at UKZN
+
+💡 Fascinated by artificial intelligence, database design, and data-driven solutions
+
+🛠️ Coding in Python, Java, C#, and SQL while sharpening problem-solving on LeetCode
+
+🎨 Exploring 3D modeling as a creative passion alongside programming
+
+🤝 Always open to learning and collaborating on exciting projects
+
+You can reach me at amahledlamini052@gmail.com
